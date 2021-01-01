@@ -13,3 +13,6 @@ Initialises a network
 Facilitates addition of layers
 Sigmoid activation function is used in all layers
 If number of target classes > 2, then softmax activation function is used in the output layer
+
+# xor.py
+A sample to show the usage of FFNN.py in training a model for implementation of XOR logic gate
